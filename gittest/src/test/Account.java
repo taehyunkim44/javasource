@@ -19,4 +19,8 @@ public class Account {
 	public void withdreaw() {
 		System.out.println("withdraw");
 	}
+
+	public void print() {
+		System.out.println("print");
+	}
 }
