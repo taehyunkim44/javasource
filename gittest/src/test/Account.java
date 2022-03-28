@@ -15,4 +15,8 @@ public class Account {
 	public void deposit() {
 		System.out.println("deposit");
 	}
+
+	public void withdreaw() {
+		System.out.println("withdraw");
+	}
 }
