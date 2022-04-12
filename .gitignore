@@ -17,6 +17,8 @@ local.properties
 */.classpath
 */.project
 
+web2/src/main/webapp/bootstrap-4.6.1-dist
+web_book/src/main/webapp/bootstrap-4.6.1-dist
 Servers/
 MANIFEST.MF
 catalina.policy
